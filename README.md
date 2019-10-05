@@ -51,4 +51,4 @@ inside the notebook.
 ### Additional Informations
 
 - [Performance Report](./Report.pdf) : Result report of training score
-when using Deep Q-Network as agent.
+when using a Deep Q-Network as an agent.

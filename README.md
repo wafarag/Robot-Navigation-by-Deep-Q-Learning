@@ -38,11 +38,10 @@ The task is episodic, and in order to solve the environment, the agent must get 
 ### Project Starter Code
 
 The project starter code can be found below, in case you want to run this project yourself.
-
 Also, the original Udacity repo for this project can be found [here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation).
 
 
-### Instructions
+### Further Exploration
 
 To go through the implementation of the agent or further train it, start jupyter notebook, open `DQN_Navigation_Banana_v0.6.ipynb`
 and execute! For more information, please check instructions

@@ -35,7 +35,7 @@ The task is episodic, and in order to solve the environment, the agent must get 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
 
-# Project Starter Code
+### Project Starter Code
 
 The project starter code can be found below, in case you want to run this project yourself.
 
@@ -44,11 +44,11 @@ Also, the original Udacity repo for this project can be found [here](https://git
 
 ### Instructions
 
-To see the implementation or train the implemented agent, start jupyter notebook, open `DQN_Navigation_Banana_v0.6.ipynb`
+To go through the implementation of the agent or further train it, start jupyter notebook, open `DQN_Navigation_Banana_v0.6.ipynb`
 and execute! For more information, please check instructions
 inside the notebook. 
 
-# Additional Informations
+### Additional Informations
 
 - [Performance Report](./Report.pdf) : Result report of training score
-when using Double-DQN as agent.
+when using Deep Q-Network as agent.
